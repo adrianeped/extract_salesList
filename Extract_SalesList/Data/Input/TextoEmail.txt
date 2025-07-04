@@ -1,0 +1,5 @@
+﻿ Olá!<br>
+<p></br>Segue abaixo relatório de {NOME_RELATORIO} do processo <b>{NOME_PROCESSO}</b></p>
+<p>{MENSAGEM}</p>
+<p>Foi um prazer te ajudar a economizer tempo com essa tarefa.</p>
+<p><br><font color='#808080'>Por favor, não responda essa mensagem, ela é gerada automaticamente.</br>
